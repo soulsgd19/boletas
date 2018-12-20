@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Boletas</string>
+    <string name="btnfecha">FECHA</string>
+    <string name="btnhora">HORA</string>
+    <string name="txtdescripcion">DESCRIPCIÓN DE LOS ACONTECIMINETOS</string>
+    <string name="btnsiguiente">SIGUIENTE</string>
+    <string name="btnguardar">GUARDAR</string>
+    <string name="btnanterior">ANTERIOR</string>
+    <string name="txtcedula">CEDULA</string>
+    <string name="txtlicencia">LICENCIA</string>
+    <string name="txtgrado">GRADO: </string>
+    <string name="txttelefono">TELEFONO</string>
+    <string name="rb1">1</string>
+    <string name="rb2">2</string>
+    <string name="rb3">3</string>
+    <string name="rb4">4</string>
+    <string name="rb5">5</string>
+    <string name="Lugar">Lugar de los incidentes</string>
+    <string name="nombre">Al ciudadano</string>
+    <string name="direccion_ciu">Dirección del Ciudadano</string>
+    <string name="Estado">Estado</string>
+    <string name="Municipio">Municipio</string>
+    <string name="Parroquia">Parroquia</string>
+    <string name="Condicion">En condición</string>
+    <string name="Marca">Marca</string>
+    <string name="Placa">Placa</string>
+    <string name="Modelo">Modelo del Vehiculo</string>
+    <string name="Tipo_v">Tipo de Vehiculo</string>
+    <string name="color">Color</string>
+    <string name="Año">Año del vehiculo</string>
+    <string name="Serial_carroceria">Serial de carroceria</string>
+    <string name="Remolque">Remolque</string>
+    <string name="Estacionamiento">Estacionamiento</string>
+    <string name="compadecer">el citado debe compadecer ante</string>
+    <string name="Datos_funcionario">Datos Del Funcionario</string>
+    <string name="n_identificacion">Numero de Identificación</string>
+    <string name="Rango">Rango</string>
+    <string name="nombre_func">Nombre Y Apellido</string>
+    <string name="Buscar">Buscar</string>
+    <string name="rbArticulo">Articulo</string>
+    <string name="rbDecreto">Decreto</string>
+    <string name="descrip_ley">Descripción</string>
+    <string name="valor_ut">Valor de la U.T</string>
+    <string name="ut_imp">U.T Impuestas</string>
+    <string name="Monto">Monto en Bs.</string>
+    <string name="Bs">Bs.</string>
+    <string name="Añadirl">Añadir Ley</string>
+    <string name="AñadirF">Añadir Funcionario</string>
+    <string name="ley">ley</string>
+    <string name="irpdf">finalizar</string>
+
+
+</resources>
